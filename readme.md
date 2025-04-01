@@ -1,3 +1,4 @@
-Hello Git
+Welcome to Git
 
-I'm adding this from 'branch1'
+-This is coming from 'dev-mo'
+-I'm adding this from 'branch1'
